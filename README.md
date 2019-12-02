@@ -4,9 +4,12 @@ Esta página consiste en una cartelera de cine a la cual se puede acceder a una 
 FUNCIONAMIENTO
 Para acceder al administrador de la cartelera se debe entrar a http://localhost/cartelera/admin.php . Aqui se puede acceder al administrador de los distintos cines por medio de los usuarios:
 
-               Usu: nico    /       Pas: 1234       /   Cin: Plaza Menor
-              Usu: antonio  /   Pas: mevaaaprobar   /    Cin: MiraCosta
+![alt text](https://github.com/nicolaslerible/Pop-Cines/blob/master/img/admin.PNG)
+
+
+                           Usu: nico    /       Pas: 1234       /   Cin: Plaza Menor
+                          Usu: antonio  /   Pas: mevaaaprobar   /    Cin: MiraCosta
             
 Una vez dentro se podrán ver las salas y emisiones, las cuales se podran editar
 
-![alt text](https://github.com/nicolaslerible/Pop-Cines/blob/master/img/admin.PNG)
+![alt text](https://github.com/nicolaslerible/Pop-Cines/blob/master/img/manager.PNG)
