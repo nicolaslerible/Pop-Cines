@@ -28,3 +28,7 @@
     background-size: cover;
     overflow: hidden;
 }
+
+.chepa{
+    min-height: 300px;
+}

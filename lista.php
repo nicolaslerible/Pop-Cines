@@ -58,7 +58,7 @@
         <div class="row bgRojo p-3 justify-content-center">
             <form class="form-inline my-2 my-lg-0" action="/cartelera/lista.php" method="get">
         <?php require_once "lib/comp/form/filtroPel.php"; ?>
-        <div class="row bg-light">
+        <div class="row bg-light chepa">
             <table class="table m-3">
                 <thead>
                     <tr>
