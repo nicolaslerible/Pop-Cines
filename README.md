@@ -1,4 +1,6 @@
+![logo Pop! Cines](https://github.com/nicolaslerible/Pop-Cines/blob/master/img/logo.png)
 # Pop-Cines
+
 Esta página consiste en una cartelera de cine a la cual se puede acceder a una página inicial, donde se pueden ver las emisiones en los distintos cines de la base de datos. Ademas, se puede acceder a un controlador de la cartelera donde crear/eliminar/actualizar tanto emisiones como películas.
 
 # Diagrama E/R
