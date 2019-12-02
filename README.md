@@ -9,4 +9,4 @@ Para acceder al administrador de la cartelera se debe entrar a http://localhost/
             
 Una vez dentro se podrán ver las salas y emisiones, las cuales se podran editar
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/nicolaslerible/Pop-Cines/blob/master/img/admin.PNG)
