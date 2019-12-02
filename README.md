@@ -8,3 +8,5 @@ Para acceder al administrador de la cartelera se debe entrar a http://localhost/
               Usu: antonio  /   Pas: mevaaaprobar   /    Cin: MiraCosta
             
 Una vez dentro se podrán ver las salas y emisiones, las cuales se podran editar
+
+![alt text](http://url/to/img.png)
